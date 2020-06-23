@@ -1,0 +1,24 @@
+{
+    "states":[
+        {
+            "name":"Utah",
+            "id":43
+        },
+        {
+            "name":"Idaho",
+            "id":11
+        },
+        {
+            "name":"Colorado",
+            "id":6
+        },
+        {
+            "name":"Arizona",
+            "id":3
+        },
+        {
+            "name":"Nevada",
+            "id":27
+        }
+    ]
+}

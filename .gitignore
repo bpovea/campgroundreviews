@@ -1,0 +1,4 @@
+env/
+*.csv
+example_park_data.json
+rates.ods
